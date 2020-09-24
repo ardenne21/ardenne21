@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a web developer specializing in responsive web applications using *React* and *Typescript*. 
+
+I am passionate about many other topics including, but not limited to: *User Experience*, *Product Management*, *Marketing* and tech topic in general! 🤓
+
+I lived in 🇦🇺 Sydney and 🇮🇹 Milan, but I'm currently working remotely from my house in 🇮🇹Bari. 
+
+If you are interested in learning more about who I am, take a look at my [linkedin profile](https://www.linkedin.com/in/angela-ameruoso-ba810194/ "linkedin profile link")
+
 <!--
 **ardenne21/ardenne21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
